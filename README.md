@@ -1,7 +1,8 @@
 # Data Analyst Portfolio 📊
 
 ## About Me
-I am a B.Tech Computer Science - Data Science student building skills in Data Analytics and Business Intelligence.
+
+I am a B.Tech Computer Science - Data Science student building skills in Data Analytics.
 
 This repository documents my learning journey and projects in:
 
@@ -16,24 +17,30 @@ This repository documents my learning journey and projects in:
 
 ## Skills
 
-### Data Analysis
+### Data Analysis Skills
 - Data Cleaning
-- Data Transformation
-- Exploratory Data Analysis
-- Business Insights
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Finding Patterns and Trends
+- Generating Insights from Data
 
-### Tools
-- Microsoft Power BI
+### Tools & Technologies
+
 - Microsoft Excel
+- Microsoft Power BI
 - SQL
 - Python
 - Pandas
 - NumPy
+- Matplotlib
 
 ### Generative AI
-- Prompt Engineering
+
+- Prompt Engineering Basics
 - AI-assisted Data Analysis
 - Text Summarization
+- Using AI for Data Insights
 
 ---
 
@@ -43,33 +50,52 @@ This repository documents my learning journey and projects in:
 
 Planned projects:
 
-### 1. Sales Analysis Dashboard
+### 1. Sales Data Analysis
+
 Tools:
 - Excel
 - SQL
+- Python
 - Power BI
 
+Description:
+Analyzing sales data to identify trends, patterns, and key insights.
+
+---
+
 ### 2. Customer Data Analysis
+
 Tools:
-- Python Pandas
+- Python
+- Pandas
 - Data Visualization
 
+Description:
+Cleaning and analyzing customer data to understand customer behavior.
+
+---
+
 ### 3. AI Data Insights Assistant
+
 Tools:
 - Python
 - Generative AI
+
+Description:
+Using AI to summarize datasets and generate analytical insights.
 
 ---
 
 ## Learning Goals
 
-- Build real-world data analytics projects
-- Improve SQL and visualization skills
-- Create business dashboards
-- Apply Generative AI in analytics workflows
+- Build real-world data analysis projects
+- Improve SQL and Python skills
+- Create meaningful data visualizations
+- Develop Power BI dashboards
+- Apply Generative AI in data analysis workflows
 
 ---
 
 ## Contact
 
-GitHub: Your GitHub Profile Link
+GitHub: Add your profile link here
