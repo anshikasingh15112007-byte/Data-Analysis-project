@@ -41,4 +41,4 @@ Built four separate PivotTables on a dedicated backend tab (`pivot_data`):
 - Created 4 matching PivotCharts (Pie, Column, and Bar charts).
 - Transferred all charts to a separate, clean **`Dashboard`** presentation sheet.
 - Arranged charts into a symmetrical 2x2 grid layout.
-- Removed background sheet gridlines for a polished, presentation-ready finish.[sales_data_project.xlxs.csv](https://github.com/user-attachments/files/30707607/sales_data_project.xlxs.csv)
+- Removed background sheet gridlines for a polished, presentation-ready finish
